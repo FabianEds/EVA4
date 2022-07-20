@@ -1,6 +1,6 @@
 body {
    margin: 0%; 
-   background: #009578;
+   background: #515a58;
 }
 
 #app {
@@ -13,13 +13,13 @@ body {
 .note{
    height: 200px; 
    box-sizing: border-box;
-   padding: 16px;
+   padding: 20px;
    border: none;
    border-radius: 10px;
    box-shadow:0 0 7px rgba(0 ,0 ,0 , 0.15);
    resize: none;
    font-family: sans-serif;
-   font-size: 16px;
+   font-size: 20px;
 }
 
 
@@ -38,4 +38,5 @@ body {
 
 .add-note:hover{
     background: rgba(0, 0, 0, 0.2)
+
 }
